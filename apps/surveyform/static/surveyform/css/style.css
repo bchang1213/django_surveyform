@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+form{
+	margin-left:20px;
+	margin-top: 20px;
+	width: 180px;
+	padding: 10px;
+	border:2px solid black;
+}
+
+input,select,textarea {
+	display: block;
+	margin-bottom: 10px;
+}
+
+fieldset{
+	border:2px solid black;
+	margin-left:20px;
+	margin-top: 20px;
+	width: 300px;
+	padding: 10px;
+}
+
+a{
+	margin-left: 20px;
+}
